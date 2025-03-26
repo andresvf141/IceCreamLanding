@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scoop Up Happiness – Limited Time Offer!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+            background-color: #fff5e1;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #d9534f;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        .testimonial {
+            font-style: italic;
+            margin: 20px 0;
+        }
+        .cta-button {
+            display: inline-block;
+            background: #d9534f;
+            color: #fff;
+            padding: 15px 20px;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background: #c9302c;
+        }
+        .quiz {
+            background: #ffe5b4;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Scoop Up Happiness – Limited Time Offer!</h1>
+        <img src="ice-cream.jpg" alt="Delicious ice cream in a waffle cone">
+        <p>Treat yourself to handcrafted, small-batch ice cream made with love. For the next 48 hours, get <strong>20% OFF</strong> your first order!</p>
+        <p class="testimonial">“Best ice cream I’ve ever had! The perfect mix of creamy & flavorful.” – Florence</p>
+        <a href="#" class="cta-button">Get 20% Off – Order Now!</a>
+        <div class="quiz">
+            <p><strong>Are you a classic Vanilla or a daring Mango Chili?</strong></p>
+            <p>Take our fun quiz and find your perfect flavor!</p>
+        </div>
+    </div>
+</body>
+</html>
